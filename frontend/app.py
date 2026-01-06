@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # 🔗 CHANGE THIS TO YOUR REAL API URL
-API_BASE_URL = "https://nvy97is5w6.execute-api.us-east-1.amazonaws.com"
+API_BASE_URL = "https://<your-api> api.us-east-1.amazonaws.com"
 
 st.title("Notes Application")
 st.write("Frontend connected to AWS backend")
